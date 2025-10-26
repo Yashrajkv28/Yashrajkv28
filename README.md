@@ -1,4 +1,4 @@
-# 💀 Yash ~ Cybersecurity Enthusiast
+# Yash~ Cybersecurity Enthusiast
 
 <div align="center">
   
