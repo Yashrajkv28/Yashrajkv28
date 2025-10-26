@@ -1,4 +1,4 @@
-# Yash~ Cybersecurity Enthusiast
+# 💀 Yash ~ Cybersecurity Enthusiast
 
 <div align="center">
   
@@ -117,7 +117,7 @@ me.say_hi()
 
 ---
 
-
+---
 
 <div align="center">
 
