@@ -1,8 +1,8 @@
-# 🌃 Yash ~ Cybersecurity Enthusiast
+# Yash~ Cybersecurity Enthusiast
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Netrunner;Penetration+Testing+%7C+Bug+Hunting;Hacking+the+System;Breaking+Protocols%2C+Building+Defenses)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Penetration+Testing+%7C+Bug+Hunting;Hacking+the+System;Breaking+Protocols%2C+Building+Defenses)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yashrajkv28&color=blueviolet&style=flat-square&label=Profile+Views)
 
@@ -115,11 +115,11 @@ me.say_hi()
 
 <div align="center">
 
-### ⚡ "In Night City, you're either a zero or a hero. I choose to hack the system." ⚡
+### ⚡ "Every system is a puzzle. Every firewall is a challenge. Every breach is a lesson learned." ⚡
 
 ![Cyberpunk Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-**🔥 Stay Preem, Choom 🔥**
+**⚡ Code. Crack. Secure. Repeat. ⚡**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
