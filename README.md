@@ -1,36 +1,38 @@
-# Yash ~ Cybersecurity Enthusiast
+# 🌃 Yash ~ Cybersecurity Enthusiast
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Penetration+Testing+%7C+Bug+Hunting;Breaking+Systems+to+Build+Better+Ones;Always+Learning%2C+Always+Hacking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Netrunner;Penetration+Testing+%7C+Bug+Hunting;Hacking+the+System;Breaking+Protocols%2C+Building+Defenses)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yashrajkv28&color=green&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Yashrajkv28&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## ⚡ About Me
 
 ```python
 class Yash:
     def __init__(self):
         self.username = "Yashrajkv28"
-        self.role = "Cybersecurity Enthusiast"
+        self.role = "Cybersecurity Netrunner"
+        self.location = "Night City // Cyberspace"
         self.interests = ["Penetration Testing", "Web Security", "Network Security"]
         self.current_focus = "Ethical Hacking & Vulnerability Research"
         self.learning = ["Advanced Exploitation", "Binary Analysis", "Reverse Engineering"]
+        self.motto = "The future is now, choom"
     
-    def get_tools(self):
+    def get_arsenal(self):
         return {
             "Operating Systems": ["Kali Linux", "Parrot OS", "Ubuntu"],
             "Penetration Testing": ["Metasploit", "Burp Suite", "Nmap", "Wireshark"],
-            "Programming": ["Python", "Bash", "JavaScript"],
+            "Programming": ["Python", "Bash", "JavaScript", "C"],
             "Security Tools": ["OWASP ZAP", "SQLMap", "Hydra", "John the Ripper"]
         }
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's secure the digital world together 🔐")
+        print("🔥 Welcome to my digital realm, choom! Let's flatline some vulnerabilities 🔥")
 
 me = Yash()
 me.say_hi()
@@ -42,9 +44,9 @@ me.say_hi()
 
 <div align="center">
   
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashrajkv28&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00)
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashrajkv28&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F700FF&icon_color=00F0FF&text_color=FFFFFF&border_color=F700FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashrajkv28&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashrajkv28&theme=radical&hide_border=true&background=0D1117&ring=F700FF&fire=F7C60D&currStreakLabel=00F0FF&border=F700FF)
 
 </div>
 
@@ -54,13 +56,13 @@ me.say_hi()
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashrajkv28&theme=github-compact&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF41&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashrajkv28&theme=tokyo-night&bg_color=0D1117&color=F700FF&line=00F0FF&point=F7C60D&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
@@ -96,27 +98,29 @@ me.say_hi()
 <div align="center">
 
 ```ascii
-┌───────────────────────────────────────────────────────┐
-│  🔴 Advanced Web Application Security                 │
-│  🟢 Binary Exploitation & Reverse Engineering         │
-│  🔴 Cloud Security (AWS/Azure)                        │
-│  🟢 Malware Analysis                                  │
-│  🔴 Red Team Operations                               │
-│  🟢 Full Stack Web Development                        │
-│  🔴 Blue Team Operations                              │
-└───────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════╗
+║  🟣 Advanced Web Application Security                 ║
+║  🔵 Binary Exploitation & Reverse Engineering         ║
+║  🟣 Cloud Security (AWS/Azure)                        ║
+║  🔵 Malware Analysis                                  ║
+║  🟣 Red Team Operations                               ║
+║  🔵 Full Stack Web Development                        ║
+║  🟣 Blue Team Operations                              ║
+╚═══════════════════════════════════════════════════════╝
 ```
 
 </div>
-
-
 
 ---
 
 <div align="center">
 
-**⚡ "In a world of zeros and ones, be the exception that breaks the code" ⚡**
+### ⚡ "In Night City, you're either a zero or a hero. I choose to hack the system." ⚡
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer)
+![Cyberpunk Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+**🔥 Stay Preem, Choom 🔥**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
 </div>
