@@ -16,12 +16,12 @@
 class Yash:
     def __init__(self):
         self.username = "Yashrajkv28"
-        self.role = "Cybersecurity Netrunner"
-        self.location = "Night City // Cyberspace"
+        self.role = "Cybersecurity Researcher"
+        self.location = "Cyberspace"
         self.interests = ["Penetration Testing", "Web Security", "Network Security"]
         self.current_focus = "Ethical Hacking & Vulnerability Research"
         self.learning = ["Advanced Exploitation", "Binary Analysis", "Reverse Engineering"]
-        self.motto = "The future is now, choom"
+        self.motto = "The future is now"
     
     def get_arsenal(self):
         return {
@@ -32,7 +32,7 @@ class Yash:
         }
     
     def say_hi(self):
-        print("🔥 Welcome to my digital realm, choom! Let's flatline some vulnerabilities 🔥")
+        print("🔥 Welcome to my digital realm! Let's flatline some vulnerabilities 🔥")
 
 me = Yash()
 me.say_hi()
