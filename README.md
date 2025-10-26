@@ -1,4 +1,4 @@
-# Yash~ Cybersecurity Enthusiast
+# 💀 Yash ~ Cybersecurity Enthusiast
 
 <div align="center">
   
@@ -45,18 +45,6 @@ me.say_hi()
 ![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashrajkv28&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashrajkv28&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajkv28&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Yashrajkv28&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
