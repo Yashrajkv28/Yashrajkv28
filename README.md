@@ -1,4 +1,4 @@
-# 💀 Yash ~ Cybersecurity Enthusiast
+# Yash~ Cybersecurity Enthusiast
 
 <div align="center">
   
@@ -105,29 +105,23 @@ me.say_hi()
 
 ## 🎓 Current Learning Path
 
-```ascii
-┌─────────────────────────────────────────────────┐
-│  🔴 Advanced Web Application Security           │
-│  🟢 Binary Exploitation & Reverse Engineering   │
-│  🔴 Cloud Security (AWS/Azure)                  │
-│  🟢 Malware Analysis                            │
-│  🔴 Red Team Operations                         │
-└─────────────────────────────────────────────────┘
-```
-
----
-
----
-
 <div align="center">
 
-### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Yashrajkv28/Yashrajkv28/output/github-contribution-grid-snake-dark.svg)
+```ascii
+┌───────────────────────────────────────────────────────┐
+│  🔴 Advanced Web Application Security                 │
+│  🟢 Binary Exploitation & Reverse Engineering         │
+│  🔴 Cloud Security (AWS/Azure)                        │
+│  🟢 Malware Analysis                                  │
+│  🔴 Red Team Operations                               │
+│  🟢 Full Stack Web Development                        │
+│  🔴 Blue Team Operations                              │
+└───────────────────────────────────────────────────────┘
+```
 
 </div>
+
+
 
 ---
 
